@@ -1,4 +1,6 @@
-﻿## TestMem5 — PC RAM stress test
+﻿<div align="right"><i>I'll be back.<br>- The Terminator</i></div>
+
+## TestMem5 — PC RAM stress test
 
 This is an official website of **TestMem5** program, modified by **CoolCmd**.
 
