@@ -6,6 +6,9 @@ This is an official website of **TestMem5** program, modified by **CoolCmd**.
 
 The original version [TestMem5 0.12 by Serj](http://testmem.tz.ru/testmem5.htm) has several annoying bugs and limitations, and is also very unfriendly. Unfortunately, Serj abandoned the development of the program. CoolCmd fixed most of the shortcomings. The fixed version of TestMem5 now lives on this site.
 
+> [!NOTE]
+> Some antiviruses, including those built into Windows, may claim that this program contains a virus. This is a false positive. Stupid heuristic antivirus analyzers do not like programs written in Assembly language.
+
 <img height="335" alt="Screenshot" src="Screenshot.png">
 
 ## TestMem5 — программа для тестирования оперативной памяти ПК
@@ -18,14 +21,15 @@ The original version [TestMem5 0.12 by Serj](http://testmem.tz.ru/testmem5.htm) 
 
 Список всех версий TestMem5 с описанием изменений находится [здесь и только здесь](https://github.com/CoolCmd/TestMem5/releases). Для самых нетерпеливых, вот [ссылка на архив с наисвежайшей последне-крайней версией](https://github.com/CoolCmd/TestMem5/releases/latest/download/TestMem5.7z).
 
-> [!NOTE]
-> Номер версии TestMem5 можно узнать, заглянув в свойства файлов `TM5.exe` и `TM5.dll` в Проводнике. Если в свойствах нет номера версии, то это исходная версия 0.12; не используйте её.
+Номер версии TestMem5 можно узнать, заглянув в Проводнике в свойства файлов `TM5.exe` и `TM5.dll`. Если там нет номера версии, то это устаревшая версия 0.12.
 
 ### Установка и запуск
 
 1. Скачайте архив по указанному выше адресу.
 2. Если у вас есть другие версии TestMem5, то удалите их. Архив содержит все необходимые файлы. Вы также можете удалить свои файлы конфигураций TestMem5 (файлы с расширением cfg), потому что в архиве есть и они.
 3. Распакуйте содержимое архива в любую папку.
+> [!NOTE]
+> Некоторые антивирусы, включая встроенный в Windows, могут заявить, что в архиве есть вирус. На самом деле в архиве вирусов нет, просто тупые эвристические анализаторы антивирусов не любят программы, написанные на Ассемблере.
 4. Создайте ярлык на файл `TM5.exe`.
 5. Запустите TestMem5.
 > [!IMPORTANT]
